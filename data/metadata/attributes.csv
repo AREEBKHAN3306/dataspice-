@@ -1,0 +1,12 @@
+fileName,variableName,description,unitText
+Harbin District-Inland Transit_v2801pt1_00046_a.csv,YEAR.,Year of trade record,Integer
+Harbin District-Inland Transit_v2801pt1_00046_a.csv,IMPORTS _Foreign Countries,Imports from Foreign Countries,Numeric
+Harbin District-Inland Transit_v2801pt1_00046_a.csv,IMPORTS _Chinese Ports,Imports from Chinese Ports,Numeric
+Harbin District-Inland Transit_v2801pt1_00046_a.csv,EXPORTS _Foreign Countries,Exports to Foreign Countries,Numeric
+Harbin District-Inland Transit_v2801pt1_00046_a.csv,EXPORTS _Chinese Ports,Exports to Chinese Ports,Numeric
+Harbin District-Inland Transit_v2801pt1_00046_a.csv,TOTAL IMPORTS AND EXPORTS.,Total Imports and Exports,Numeric
+Harbin District-Inland Transit_v2801pt1_00046_a.csv,RE-EXPORTS.,Goods re-exported to other regions,Numeric
+Harbin District-Inland Transit_v2801pt1_00046_a.csv,TREASURE_Foreign Countries,Financial transactions related to trade in Foreign Countries,Numeric
+Harbin District-Inland Transit_v2801pt1_00046_a.csv,TREASURE_Chinese Ports,Financial transactions related to trade in China,Numeric
+Harbin District-Inland Transit_v2801pt1_00046_a.csv,TRANSIT TRADE_Foreign Countries,Trade passing through Foreign Countries as transit,Numeric
+Harbin District-Inland Transit_v2801pt1_00046_a.csv,TRANSIT TRADE_Chinese Ports,Trade passing through China as transit,Numeric

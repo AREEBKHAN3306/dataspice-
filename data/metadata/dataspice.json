@@ -1,0 +1,104 @@
+{
+  "@context": "http://schema.org",
+  "type": "Dataset",
+  "name": "Harbin District",
+  "creator": [
+    {
+      "type": "Person",
+      "id": 113573699,
+      "email": "areebkhan3306@ou.edu",
+      "affiliation": "The University of Oklahoma",
+      "name": "Areeb Khan"
+    }
+  ],
+  "description": "This dataset contains the data about the imports, exports and transit trade occurred in the Harbin District.",
+  "datePublished": "7/19/2024",
+  "keywords": ["Data", "Inwards", "Outwards", "Inland Transit", "Transit Trade", "Chinese ports"],
+  "funder": null,
+  "temporalCoverage": "1/1/1922/12/31/1928",
+  "license": null,
+  "spatialCoverage": {
+    "type": "Place",
+    "name": "Harbin, China",
+    "geo": {
+      "type": "GeoShape",
+      "box": "46.8 45.5 125 127"
+    }
+  },
+  "variableMeasured": [
+    {
+      "type": "PropertyValue",
+      "unitText": "Integer",
+      "name": "YEAR.",
+      "description": "Year of trade record"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "Numeric",
+      "name": "IMPORTS _Foreign Countries",
+      "description": "Imports from Foreign Countries"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "Numeric",
+      "name": "IMPORTS _Chinese Ports",
+      "description": "Imports from Chinese Ports"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "Numeric",
+      "name": "EXPORTS _Foreign Countries",
+      "description": "Exports to Foreign Countries"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "Numeric",
+      "name": "EXPORTS _Chinese Ports",
+      "description": "Exports to Chinese Ports"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "Numeric",
+      "name": "TOTAL IMPORTS AND EXPORTS.",
+      "description": "Total Imports and Exports"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "Numeric",
+      "name": "RE-EXPORTS.",
+      "description": "Goods re-exported to other regions"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "Numeric",
+      "name": "TREASURE_Foreign Countries",
+      "description": "Financial transactions related to trade in Foreign Countries"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "Numeric",
+      "name": "TREASURE_Chinese Ports",
+      "description": "Financial transactions related to trade in China"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "Numeric",
+      "name": "TRANSIT TRADE_Foreign Countries",
+      "description": "Trade passing through Foreign Countries as transit"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "Numeric",
+      "name": "TRANSIT TRADE_Chinese Ports",
+      "description": "Trade passing through China as transit"
+    }
+  ],
+  "distribution": [
+    {
+      "type": "DataDownload",
+      "name": ": Annual trade report and returns - 1928 (Harbin District)",
+      "contentUrl": "https://dataverse.harvard.edu/file.xhtml?fileId=10376999&version=1.0",
+      "encodingFormat": ".csv"
+    }
+  ]
+}
